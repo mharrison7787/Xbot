@@ -1,0 +1,21 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "First test",
+  "main": "index.js",
+  "scripts": {
+    "test": "discordbot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "discordbot"
+  },
+  "author": "Trevor Foresta",
+  "license": "ISC",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^13.2.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
