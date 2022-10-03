@@ -11,7 +11,7 @@ const fs = require('fs');
 
 //function to get random quote from quotes.txt
 function getRandomQuote() {
-	var data = fs.readFileSync('quotes.txt', 'utf8'); // reads the file  as a buffer
+	var data = fs.readFileSync('quotes_library/x-quotes.txt', 'utf8'); // reads the file  as a buffer
 	data = data.toString(); // makes the buffer into a readable string
 	data = data.split('\n'); // splits the string into an array of strings
 	var randomQuote = data[Math.floor(Math.random() * data.length)]; // gets a random quote from the array
