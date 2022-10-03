@@ -32,6 +32,4 @@ client.on('messageCreate', (message) => {
 });
 
 //Note: change 'token' to bot's token
-client.login(
-	'OTg0MjI1NzgyOTYyNDU4Njg0.GE7ICi.00dk335LkNeeJ4nvyKgc_y50tnO7tU0yzkgY0c'
-);
+client.login('token');
