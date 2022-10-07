@@ -1,7 +1,7 @@
 # Xbot - Dr. X Discord Bot
 
 A bot to send quotes from Professor Xie to your Discord server.
-Current Quote Bank: 39 total quotes
+Current Quote Bank: 42 total quotes
 
 ![Xbot PFP](Xpfp.png){width=100}
 
@@ -10,7 +10,7 @@ Current Quote Bank: 39 total quotes
 Commands: '!x', 'x', or 'Dr. X' - more to come
 (Note: add ability to scan messages for prefix instead of just prefix)
 
-Future plans:
+## Future plans:
 
 - Zoppetti Bot (5 quotes currently)
 - Cain Bot (7 quotes currently)
