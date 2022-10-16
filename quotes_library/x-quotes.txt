@@ -44,3 +44,4 @@
 "May the force be with you"
 "Please give a good, bloody, beasty name for each team"
 "This date here, the one I am poitning to, I want Dr. Hogg to suffer on that day. So please do that for me"
+"I want to help you all succeed in this course but sometimes I just am lazy" 
