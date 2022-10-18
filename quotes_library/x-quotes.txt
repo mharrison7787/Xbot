@@ -49,3 +49,4 @@
 "Try not to copy my code. I say try not to because you are my students and you have the privilege to copy my code."
 "The point is I'm afraid of using markers on the board. My drawings are ugly and I don't want people to know that."
 "The person who notices this should buy us all coke"
+"Don't forget class, to **import numpy as np** and **pandas as pd**"
