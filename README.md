@@ -1,7 +1,7 @@
 # Xbot - Dr. X Discord Bot
 
 A bot to send quotes from Professor Xie to your Discord server.
-Current Quote Bank: 52 total quotes
+Current Quote Bank: 53 total quotes
 
 ![Xbot PFP](Xpfp.png){width=100}
 
