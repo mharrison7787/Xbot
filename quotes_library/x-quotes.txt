@@ -49,5 +49,13 @@
 "Try not to copy my code. I say try not to because you are my students and you have the privilege to copy my code."
 "The point is I'm afraid of using markers on the board. My drawings are ugly and I don't want people to know that."
 "The person who notices this should buy us all coke"
+"If you read a text book or some article online, you are wrong. I am the only one who is right"
+"It looks like a lot of you are staring at the board hard. I wonder if that's my fault"
 "Don't forget class, to **import numpy as np** and **pandas as pd**"
 *places a massive bucket of candy onto the table* "Candy please" *walks away*
+"There are two reasons why I can not solve this problem: 1) I am dumb, 2) People are dumb"
+"I wish every course was, this is hard? So we don't care"
+"You can see on the board is some kind of joke? I think it's smart or something I don't know"
+"I have a friend studying PhD Big Data and he told me everyone is always talking about Big Data. Like how teenagers always talk about sex"
+"Safe drive don’t text Trevor"
+"The solution is don’t sleep tonight"
