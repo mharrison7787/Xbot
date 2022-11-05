@@ -32,7 +32,7 @@
 "Maybe because we have computers and phones, you are bad at reading!"
 "Please don’t use your normal password for PostSQL, or else don’t be confused if you lose money in your bank account."
 *drawing a diagram* "I do not have the talent of drawing... I drawed a laptop by the way" 💻
-"The weather is terrible for reasons. One is the weather drops drastically meaning it easier to catch a cold. I want my students to be healthy.....healthy enough to show up for my class at least."
+"The weather is terrible for reasons. One is the weather drops drastically meaning it easier to catch a cold. I want my students to be healthy... healthy enough to show up for my class at least."
 "This gloomy weather makes me not want to do anything, it makes me sleep. I would rather stay in my bed and watch an episode of any anime"
 "hahaha，High Five! I am so happy today"
 "No worry! Be casual and free to do anything (legal)"
@@ -59,3 +59,7 @@
 "I have a friend studying PhD Big Data and he told me everyone is always talking about Big Data. Like how teenagers always talk about sex"
 "Safe drive don’t text Trevor"
 "The solution is don’t sleep tonight"
+"You cannot build a house with a screwdriver... by the way I don't know how to build a house"
+"People say Chinese are good at math. In China we wake up every morning at 6AM and do math for 2 hours. You won't have to do that, it is much worse than the math here. Of course if you did you would be very well prepared"
+"You can learn what is popular at the time but no one can know what it will be like in 5 years. If you did you could be like millionaire and make cell phone"
+"I taught someone who graduated and make like double, triple my salary. Its very nice but you know I don't like meetings and waking up early"
