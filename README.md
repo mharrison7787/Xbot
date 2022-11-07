@@ -3,7 +3,7 @@
 A bot to send quotes from Professor Xie to your Discord server.
 Current Quote Bank: 68 total quotes
 
-![Xbot PFP](Xpfp.png){width=100}
+![Xbot PFP](Xpfp.png)
 
 ## Usage:
 
