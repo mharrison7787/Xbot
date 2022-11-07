@@ -63,3 +63,6 @@
 "People say Chinese are good at math. In China we wake up every morning at 6AM and do math for 2 hours. You won't have to do that, it is much worse than the math here. Of course if you did you would be very well prepared"
 "You can learn what is popular at the time but no one can know what it will be like in 5 years. If you did you could be like millionaire and make cell phone"
 "I taught someone who graduated and make like double, triple my salary. Its very nice but you know I don't like meetings and waking up early"
+"There is something called Social Networking Feeds where people on twitter can tweet some garbage and we can gain data from that garbage. Its really useful!"
+"IGN uses mongoDB....hm interesting I never trusted them"
+"You can embed me into your document"
