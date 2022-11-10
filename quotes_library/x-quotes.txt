@@ -66,3 +66,6 @@
 "There is something called Social Networking Feeds where people on Twitter can tweet some garbage, and we can gain data from that garbage. It's really useful."
 "IGN uses MongoDB... hmm interesting, I never trusted them."
 "You can embed me into your document"
+"How many people tried making an account" *One person raises hand* "Oh good several people"
+"You can add your age, for example I am 21... please don't laugh..... that hurts my feelings 🥺"
+"I want you all to make your money worthy"
