@@ -82,3 +82,4 @@
  "Some of you have been gone for quite a long time of classes. I missed you guys"
  "Should we do some SQL for the final review? I think we should I am really worried for all of you"
  "I am from China, we took so many exams, I kind of know what the teachers want. So I have really good intuition and got 99 on physic exam I did not study for!"
+ "I noticed that several of you are having trouble with question 6. This is actually an easier question. But don't worry too much. It's just worth several many points. Merry Christmas!"
